@@ -1,7 +1,7 @@
 def world():
     print("hello world")
 
-name = "vidy"
+name = "zakiya"
 
 class Elephant:
     def __init__(self, name, color) -> None:
